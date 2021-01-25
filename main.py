@@ -1,1 +1,4 @@
-#WRITE YOUR CODE IN THIS FILE
+def howLong(x):
+    return len(x)
+
+print (howLong("hello"))
